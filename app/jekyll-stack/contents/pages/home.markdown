@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Home page
-permalink: /index.html
+permalink: /
 ---
